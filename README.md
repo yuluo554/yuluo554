@@ -57,6 +57,7 @@
 - [体检台账](https://github.com/yuluo554/10-16-2-checkup-ledger) — 历年体检指标纵向趋势
 - [家庭资料归档](https://github.com/yuluo554/10-15-family-archive-workbench) — 本地索引与检索
 - [菜谱成本核算](https://github.com/yuluo554/10-15-recipe-cost-calculator) — 净料换算 → 菜品成本卡
+- [论文/文献审计](https://github.com/yuluo554/thesis-audit-workbench) — GB/T 7714 文献审计 + 全文格式检查
 
 ### 监控与雷达
 
@@ -76,6 +77,10 @@
 ### 数学与形式化
 
 - [步骤级审计](https://github.com/yuluo554/hard-math-solution-auditor) / [论文断言重放](https://github.com/yuluo554/math-paper-replay-auditor) / [形式化库导航](https://github.com/yuluo554/HWS-formal-math-navigator)
+
+### 小游戏与演示
+
+- [黑盒电路侦探](https://github.com/yuluo554/circuit-detective) — 拨开关看灯，反推黑盒里的最少门电路（纯前端单页，零依赖零外链）
 
 ### 插件生态
 
