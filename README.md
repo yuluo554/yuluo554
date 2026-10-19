@@ -58,6 +58,8 @@
 - [家庭资料归档](https://github.com/yuluo554/10-15-family-archive-workbench) — 本地索引与检索
 - [菜谱成本核算](https://github.com/yuluo554/10-15-recipe-cost-calculator) — 净料换算 → 菜品成本卡
 - [论文/文献审计](https://github.com/yuluo554/thesis-audit-workbench) — GB/T 7714 文献审计 + 全文格式检查
+- [字幕投放前体检](https://github.com/yuluo554/subtitle-preflight) — SRT/VTT/ASS 四类规则 + 行号定位
+- [界面取证镜](https://github.com/yuluo554/pattern-lens) — MV3 扩展，只取证不打分
 
 ### 监控与雷达
 
@@ -74,6 +76,8 @@
 - [决策宇宙](https://github.com/yuluo554/decision-atlas) — 规则集编译 + 反事实路径差
 - [图表诚信审计](https://github.com/yuluo554/10-18-truth-chart-skill) — 逐值溯源 + 样本量门禁
 - [HTTP 语义 MCP](https://github.com/yuluo554/http-semantics-mcp) — CORS / 缓存 / 条件请求 / Vary 的确定性判定（stdio MCP，零运行时依赖）
+- [merge 保真度审计](https://github.com/yuluo554/merge-fidelity) — git 自己复算，挖夹带/静默吞/漏搬
+- [测试结果终端工作台](https://github.com/yuluo554/testdeck) — 多 run JUnit XML 归一 + 本地 SQLite
 
 ### 数学与形式化
 
