@@ -73,6 +73,7 @@
 - [过程挖掘](https://github.com/yuluo554/10-16-2-process-atlas-skill) — DFG / variants / bottlenecks
 - [决策宇宙](https://github.com/yuluo554/decision-atlas) — 规则集编译 + 反事实路径差
 - [图表诚信审计](https://github.com/yuluo554/10-18-truth-chart-skill) — 逐值溯源 + 样本量门禁
+- [HTTP 语义 MCP](https://github.com/yuluo554/http-semantics-mcp) — CORS / 缓存 / 条件请求 / Vary 的确定性判定（stdio MCP，零运行时依赖）
 
 ### 数学与形式化
 
