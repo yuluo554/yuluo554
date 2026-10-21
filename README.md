@@ -60,6 +60,17 @@
 - [论文/文献审计](https://github.com/yuluo554/thesis-audit-workbench) — GB/T 7714 文献审计 + 全文格式检查
 - [字幕投放前体检](https://github.com/yuluo554/subtitle-preflight) — SRT/VTT/ASS 四类规则 + 行号定位
 - [界面取证镜](https://github.com/yuluo554/pattern-lens) — MV3 扩展，只取证不打分
+- [行为级配置 diff](https://github.com/yuluo554/10-20-cfgdelta) — 归一化层 + 影响分类层（Go 单静态二进制）
+- [构建产物差异归因](https://github.com/yuluo554/10-20-build-diff-ledger) — 两份构建 → 可复算分类账本 + 最小原因集
+- [跨格式契约兼容](https://github.com/yuluo554/10-20-contract-compat) — Avro / Protobuf / JSON Schema 统一判定
+- [乱码尸检](https://github.com/yuluo554/10-20-mojibake-forensics) — 字节级编码归因 + 不可逆判定
+- [k-匿名坍缩面](https://github.com/yuluo554/anonymity-surface-scanner) — 最小坍缩列组合 + 等价类
+- [SQL 血缘](https://github.com/yuluo554/sqltrace) — 值与控制双通道 + 写入者普查
+- [证书与私钥账本](https://github.com/yuluo554/10-21-certledger) — 本机证书/私钥盘点与配对
+- [结构化数据往返保真](https://github.com/yuluo554/10-21-tripwire) — 单元格级 diff + 规则归因
+- [抽取真值判定](https://github.com/yuluo554/extract-oracle) — 抽取结果的可复算真值
+- [离线邮件认证账本](https://github.com/yuluo554/mailvault) — SPF / DKIM / DMARC 同快照判定
+- [字体子集体检](https://github.com/yuluo554/subsetaudit) — 覆盖 / 布局 / 许可 / 元数据
 
 ### 监控与雷达
 
